@@ -6,15 +6,19 @@ const Hero = () => {
           {/* Hero Content */}
           <div className="space-y-6">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 dark:text-white leading-tight">
-              Hire with{' '}
-              <span className="text-primary-600 dark:text-primary-400">Confidence</span>
+              Hire with confidence
+              <span className="text-primary-600 dark:text-primary-400 block text-3xl md:text-4xl lg:text-5xl mt-2">
+                @Credence
+              </span>
             </h1>
-            <p className="text-xl text-gray-600 dark:text-gray-300 leading-relaxed">
-              Comprehensive hiring and verification solutions for businesses seeking trusted talent. 
-              We bridge the gap between recruitment and background verification.
+            <p className="text-xl text-gray-600 dark:text-gray-300 leading-relaxed font-bold">
+              We bridge the gap between companies and employees
+            </p>
+            <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
+              Comprehensive hiring and verification solutions for businesses seeking trusted talent.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 pt-4">
-              <a href="#contact" className="bg-primary-600 hover:bg-primary-700 text-white font-semibold py-3 px-6 rounded-lg transition-all duration-300 transform hover:scale-105 text-center">
+              <a href="#services" className="bg-primary-600 hover:bg-primary-700 text-white font-semibold py-3 px-6 rounded-lg transition-all duration-300 transform hover:scale-105 text-center">
                 Get Started
               </a>
               <a href="#services" className="border-2 border-primary-600 text-primary-600 dark:text-primary-400 dark:border-primary-400 font-semibold py-3 px-6 rounded-lg transition-all duration-300 hover:bg-primary-600 hover:text-white text-center">
