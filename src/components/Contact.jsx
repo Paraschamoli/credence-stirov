@@ -11,8 +11,8 @@ const Contact = () => {
         </svg>
       ),
       title: 'Office Address',
-      content: '123 Business District, Corporate City, CC 12345',
-      href: 'https://maps.google.com/?q=123+Business+District,+Corporate+City,+CC+12345',
+      content: 'Gurgaon 122505, Haryana, India',
+      href: 'https://maps.google.com/?q=Gurgaon+122505,+Haryana,+India',
       type: 'map'
     },
     {
@@ -22,8 +22,8 @@ const Contact = () => {
         </svg>
       ),
       title: 'Phone Number',
-      content: '+1 (555) 123-4567',
-      href: 'tel:+15551234567',
+      content: '+91-8818000767',
+      href: 'tel:+918818000767',
       type: 'phone'
     },
     {
