@@ -34,7 +34,26 @@ const Contact = () => {
       ),
       title: 'Email Address',
       content: 'info@credencestirov.com',
-      href: 'mailto:info@credencestirov.com?subject=Inquiry%20from%20Website&body=Hello%20Credence%20Stirov,',
+      href: `mailto:info@credencestirov.com?subject=Business Inquiry: Credence Stirov Verification Services&body=${encodeURIComponent(`Dear Credence Stirov Team,
+
+I am interested in learning more about your hiring and verification solutions.
+
+Please contact me with more information about:
+- Background verification services
+- Hiring process solutions
+- Compliance checks
+- Custom packages
+
+My requirements:
+[Briefly describe your needs]
+
+Looking forward to your response.
+
+Best regards,
+[Your Name]
+[Company Name]
+[Phone Number]`)}`,
+
       type: 'email'
     }
   ]
