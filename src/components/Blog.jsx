@@ -190,30 +190,6 @@ const Blog = () => {
                   {selectedPost.fullContent}
                 </p>
               </div>
-
-              {/* Share Section */}
-              <div className="mt-12 pt-8 border-t border-gray-200 dark:border-gray-700">
-                <h3 className="text-lg font-semibold text-gray-900 dark:text-white mb-4">
-                  Share this post:
-                </h3>
-                <div className="flex space-x-4">
-                  <button className="p-2 bg-gray-100 dark:bg-gray-800 rounded-lg hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors duration-300">
-                    <span className="text-sm font-medium text-gray-700 dark:text-gray-300">
-                      Twitter
-                    </span>
-                  </button>
-                  <button className="p-2 bg-gray-100 dark:bg-gray-800 rounded-lg hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors duration-300">
-                    <span className="text-sm font-medium text-gray-700 dark:text-gray-300">
-                      LinkedIn
-                    </span>
-                  </button>
-                  <button className="p-2 bg-gray-100 dark:bg-gray-800 rounded-lg hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors duration-300">
-                    <span className="text-sm font-medium text-gray-700 dark:text-gray-300">
-                      Facebook
-                    </span>
-                  </button>
-                </div>
-              </div>
             </div>
 
             {/* Sidebar */}
