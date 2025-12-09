@@ -50,7 +50,7 @@ const Blog = () => {
       slug: "pre-employment-screening-saves-time-money",
       fullContent:
         "Hiring the wrong candidate is expensive—both in time and resources. Recruitment costs, training, and onboarding all add up, and replacing an unsuitable employee can be even more costly. Pre-employment screening acts as a filter to prevent these losses by ensuring that only qualified, authentic candidates are selected. In the long run, verification saves businesses money and improves workforce quality.",
-      image: null,
+      image: "/credence-stirov/images/blog/1.jpeg",
     },
     {
       id: 5,
@@ -62,7 +62,7 @@ const Blog = () => {
       slug: "compliance-hiring-what-every-business-should-know",
       fullContent:
         "Compliance is one of the most overlooked aspects of hiring. From labor laws to data privacy regulations, businesses must ensure that their hiring practices meet legal standards. Background verification helps organizations remain compliant by validating employee information, preventing unlawful practices, and reducing risks of penalties. Staying compliant not only avoids legal trouble but also builds credibility in the market.",
-      image: null,
+      image: "/credence-stirov/images/blog/2.jpeg",
     },
     {
       id: 6,
@@ -74,7 +74,7 @@ const Blog = () => {
       slug: "how-startups-protect-themselves-background-checks",
       fullContent:
         "For startups, every hire matters. A wrong hiring decision can affect productivity, culture, and even funding. Unfortunately, many startups skip background checks due to cost or time concerns. However, even simple verification checks can protect young businesses from fraud, legal issues, and reputation damage. Affordable and customized verification solutions give startups peace of mind while they scale confidently.",
-      image: null,
+      image: "/credence-stirov/images/blog/3.jpeg",
     },
   ];
 
