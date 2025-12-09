@@ -14,7 +14,7 @@ const Blog = () => {
       slug: "verification-to-vision-smarter-approach-hiring",
       fullContent:
         "Recruiters today face multiple challenges, including fake resumes, employment gaps, unverifiable references, and even fraudulent certifications. These issues can slow down the hiring process and create risks for employers. A structured verification process helps identify red flags early, ensuring that only genuine candidates move forward. By addressing these challenges, businesses save time, reduce risks, and hire more confidently.",
-      image: "/credence-stirov/images/blog/9.webp",
+      image: "/images/blog/9.webp",
     },
     {
       id: 2,
@@ -26,7 +26,7 @@ const Blog = () => {
       slug: "top-5-hiring-challenges-verification-solutions",
       fullContent:
         "Recruiters today face multiple challenges, including fake resumes, employment gaps, unverifiable references, and even fraudulent certifications. These issues can slow down the hiring process and create risks for employers. A structured verification process helps identify red flags early, ensuring that only genuine candidates move forward. By addressing these challenges, businesses save time, reduce risks, and hire more confidently.",
-      image: "/credence-stirov/images/blog/8.webp",
+      image: "/images/blog/8.webp",
     },
     {
       id: 3,
@@ -38,7 +38,7 @@ const Blog = () => {
       slug: "why-background-verification-essential-modern-hiring",
       fullContent:
         "In today's competitive job market, background verification has become more than just a formality—it's a necessity. Many candidates exaggerate or even falsify their qualifications, experience, or identity. Without proper screening, organizations risk hiring individuals who may compromise security, performance, or compliance. Background verification helps businesses make informed hiring decisions, protect their reputation, and build a trustworthy workforce.",
-      image: "/credence-stirov/images/blog/7.webp",
+      image: "/images/blog/7.webp",
     },
     {
       id: 4,
@@ -50,7 +50,7 @@ const Blog = () => {
       slug: "pre-employment-screening-saves-time-money",
       fullContent:
         "Hiring the wrong candidate is expensive—both in time and resources. Recruitment costs, training, and onboarding all add up, and replacing an unsuitable employee can be even more costly. Pre-employment screening acts as a filter to prevent these losses by ensuring that only qualified, authentic candidates are selected. In the long run, verification saves businesses money and improves workforce quality.",
-      image: "/credence-stirov/images/blog/1.jpeg",
+      image: "/images/blog/1.jpeg",
     },
     {
       id: 5,
@@ -62,7 +62,7 @@ const Blog = () => {
       slug: "compliance-hiring-what-every-business-should-know",
       fullContent:
         "Compliance is one of the most overlooked aspects of hiring. From labor laws to data privacy regulations, businesses must ensure that their hiring practices meet legal standards. Background verification helps organizations remain compliant by validating employee information, preventing unlawful practices, and reducing risks of penalties. Staying compliant not only avoids legal trouble but also builds credibility in the market.",
-      image: "/credence-stirov/images/blog/2.jpeg",
+      image: "/images/blog/2.jpeg",
     },
     {
       id: 6,
@@ -74,7 +74,7 @@ const Blog = () => {
       slug: "how-startups-protect-themselves-background-checks",
       fullContent:
         "For startups, every hire matters. A wrong hiring decision can affect productivity, culture, and even funding. Unfortunately, many startups skip background checks due to cost or time concerns. However, even simple verification checks can protect young businesses from fraud, legal issues, and reputation damage. Affordable and customized verification solutions give startups peace of mind while they scale confidently.",
-      image: "/credence-stirov/images/blog/3.jpeg",
+      image: "/images/blog/3.jpeg",
     },
   ];
 
