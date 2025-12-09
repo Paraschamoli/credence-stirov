@@ -25,7 +25,7 @@ const About = () => {
           <div className="relative order-2 lg:order-1">
             <div className="absolute -inset-4 bg-gradient-to-br from-primary-100 to-primary-50 dark:from-primary-900 dark:to-primary-800 rounded-2xl transform rotate-2"></div>
             <img
-              src="/credence-stirov/images/about/1.webp"
+              src="/images/about/1.webp"
               alt="Our Mission"
               className="relative rounded-xl shadow-2xl w-full h-auto transform hover:scale-105 transition-transform duration-500"
             />
@@ -118,7 +118,7 @@ const About = () => {
           <div className="relative">
             <div className="absolute -inset-4 bg-gradient-to-tr from-gray-100 to-gray-50 dark:from-gray-800 dark:to-gray-700 rounded-2xl transform -rotate-2"></div>
             <img
-              src="/credence-stirov/images/about/2.webp"
+              src="/images/about/2.webp"
               alt="Our Services"
               className="relative rounded-xl shadow-2xl w-full h-auto transform hover:scale-105 transition-transform duration-500"
             />
@@ -130,7 +130,7 @@ const About = () => {
           <div className="relative">
             <div className="absolute -inset-4 bg-gradient-to-bl from-primary-100 to-primary-50 dark:from-primary-900 dark:to-primary-800 rounded-2xl transform rotate-3"></div>
             <img
-              src="/credence-stirov/images/about/3.webp"
+              src="/images/about/3.webp"
               alt="Technology and Expertise"
               className="relative rounded-xl shadow-2xl w-full h-auto transform hover:scale-105 transition-transform duration-500"
             />
@@ -187,7 +187,7 @@ const About = () => {
           <div className="relative">
             <div className="absolute -inset-4 bg-gradient-to-tl from-gray-100 to-gray-50 dark:from-gray-800 dark:to-gray-700 rounded-2xl transform -rotate-3"></div>
             <img
-              src="/credence-stirov/images/about/4.webp"
+              src="/images/about/4.webp"
               alt="Our Vision"
               className="relative rounded-xl shadow-2xl w-full h-auto transform hover:scale-105 transition-transform duration-500"
             />
