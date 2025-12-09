@@ -10,7 +10,7 @@ export default defineConfig({
       open: false
     })
   ],
-  base: "/",
+  base: "/credence-stirov",
   build: {
     rollupOptions: {
       output: {
